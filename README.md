@@ -1,9 +1,9 @@
 # TOP-Rent-A-Car
 This is my first application with React for Car Rental.
 
-<h2>Rent-a-Car Assignment with JSON Server<h2>
+Rent-a-Car Assignment with JSON Server
 
-<h4>Run the project<h4>
+Run the project
 
 1. npm install
 
@@ -11,7 +11,7 @@ This is my first application with React for Car Rental.
 
 3. npm run start-json:server
 
-<h4>Test acoounts<h4>
+Test acoounts
 
 For admin:
 
