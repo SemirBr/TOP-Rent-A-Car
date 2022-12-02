@@ -4,8 +4,6 @@
 
 This is my first application with React for Car Rental.
 
-<br/><br/>
-
 ### 🏃 Run the project
 
 1. npm install
@@ -13,8 +11,6 @@ This is my first application with React for Car Rental.
 2. npm start
 
 3. npm run start-json:server
-
-<br/><br/>
 
 ### 🧪 Test acoounts
 
