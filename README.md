@@ -1,9 +1,12 @@
 # TOP-Rent-A-Car
+
+## 💻 Rent-a-Car Assignment with JSON Server
+
 This is my first application with React for Car Rental.
 
-Rent-a-Car Assignment with JSON Server
+<br/><br/>
 
-Run the project
+### 🏃 Run the project
 
 1. npm install
 
@@ -11,7 +14,9 @@ Run the project
 
 3. npm run start-json:server
 
-Test acoounts
+<br/><br/>
+
+### 🧪 Test acoounts
 
 For admin:
 
@@ -25,3 +30,4 @@ create user or...
 Username:specialuser@gmail.com
   
 Password: 1234
+
