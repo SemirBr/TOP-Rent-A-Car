@@ -1,0 +1,258 @@
+{
+  "vehicles": [
+    {
+      "id": "tab47g59-0dh9-4af8-gg7c-d3e2bs7ef305",
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/citroen-c3-car-rental.jpg",
+      "brand": "Citroen ",
+      "model": "C3",
+      "year": "2022",
+      "type": "Economy",
+      "fuel": "Petrol",
+      "numberOfSeats": 5,
+      "pricePerDay": "21.34",
+      "carCount": "5"
+    },
+    {
+      "id": "asds7dcc-2197-3e40-da72-vv57d969a305",
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/hyundai-i20-car-rental.jpg",
+      "brand": "Hyundai ",
+      "model": "i20",
+      "year": "2022",
+      "type": "Economy",
+      "fuel": "Petrol",
+      "numberOfSeats": "5",
+      "pricePerDay": "18.65",
+      "carCount": "10"
+    },
+    {
+      "id": "xb5dd2cf-18b2-481f-85e9-57d969a3d488",
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/renault_clio_v_aut_navi.jpg",
+      "brand": "Renault ",
+      "model": "Clio V",
+      "year": "2021",
+      "type": "Economy",
+      "fuel": "Petrol",
+      "numberOfSeats": 5,
+      "pricePerDay": "23.28",
+      "carCount": "31"
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/vw-passat-aut-estate-rental.jpg",
+      "brand": "VW ",
+      "model": "Passat",
+      "year": "2022",
+      "type": "Estate",
+      "fuel": "Petrol",
+      "numberOfSeats": "5",
+      "pricePerDay": "31.50",
+      "id": "T32VOvF",
+      "carCount": 5
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/toyota-corolla-estate-hybrid-car-rental-3.jpg",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": "2022",
+      "type": "Estate",
+      "fuel": "Hybrid",
+      "numberOfSeats": "5",
+      "pricePerDay": "35.89",
+      "id": "Gte5fxE",
+      "carCount": "13"
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/ford-custom-passenger.jpg",
+      "brand": "Ford ",
+      "model": "Custom",
+      "year": "2022",
+      "type": "Cargo",
+      "fuel": "Diesel",
+      "numberOfSeats": "8",
+      "pricePerDay": "40.74",
+      "id": "51F336J",
+      "carCount": 2
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/bmw-118i-car-rental.jpg",
+      "brand": "BMW ",
+      "model": "118i ",
+      "year": "2022",
+      "type": "Luxury",
+      "fuel": "Petrol",
+      "numberOfSeats": "5",
+      "pricePerDay": "58.20",
+      "id": "CfrKHsA",
+      "carCount": 10110
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/hyundai-tucson-car-rental.jpg",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "year": "2022",
+      "type": "SUV",
+      "fuel": "Petrol",
+      "numberOfSeats": "5",
+      "pricePerDay": "43.65",
+      "id": "Marmany",
+      "carCount": "1"
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/ds4.jpg",
+      "brand": "DS ",
+      "model": "4",
+      "year": "2022",
+      "type": "SUV",
+      "fuel": "Electric",
+      "numberOfSeats": "5",
+      "pricePerDay": "64.99",
+      "id": "bbyFvbic",
+      "carCount": "211"
+    },
+    {
+      "isActive": true,
+      "picture": "https://toprentacar.bg/images/step_2/cars/citroen-berlingo-cargo.jpg",
+      "brand": "Citroen ",
+      "model": "Berlingo",
+      "year": "2022",
+      "type": "Cargo",
+      "fuel": "Diesel",
+      "numberOfSeats": "2",
+      "pricePerDay": "32.30",
+      "id": "1sfrffd",
+      "carCount": "711"
+    }
+  ],
+  "users": [
+    {
+      "isAdmin": true,
+      "isVIP": true,
+      "totalRentedCars": 1,
+      "name": "Richard Johnson",
+      "picture": "https://images.pexels.com/photos/3777562/pexels-photo-3777562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "email": "admin@gmail.com",
+      "phone": "(410) 923-6231",
+      "address": "750 Old Herald Harbor Rd Crownsville, Maryland(MD), 21032",
+      "password": "admin",
+      "id": "gskfbsk"
+    },
+    {
+      "id": "70ad681a-b5bb-4f05-a451-cd5f36de57df",
+      "isAdmin": false,
+      "isVIP": false,
+      "totalRentedCars": 1,
+      "picture": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mary Brown",
+      "email": "marybrown_12@gmail.com",
+      "password": "1234",
+      "phone": "(231) 821-0172",
+      "address": "1412 Steaders Pass Zeeland, Michigan(MI), 49464"
+    },
+    {
+      "id": "c3cd55ff-03e8-4e06-b4ee-fab89847958c",
+      "isAdmin": false,
+      "isVIP": false,
+      "totalRentedCars": 0,
+      "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "James Smith",
+      "email": "james71@gmail.com",
+      "password": "1234",
+      "phone": "(910) 866-4167",
+      "address": "5617 Nc 53 Hwy W White Oak, North Carolina(NC), 28399"
+    },
+    {
+      "id": "afsf55ff-03e8-4f05-8f80-cd5f36de57df",
+      "isAdmin": false,
+      "isVIP": true,
+      "totalRentedCars": 0,
+      "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Williams",
+      "email": "williams@gmail.com",
+      "password": "1234",
+      "phone": "(630) 221-9773",
+      "address": "2 Wheaton Ctr Wheaton, Illinois(IL), 60187"
+    },
+    {
+      "id": "53488485-8851b-4f61-a8e3-07a7fa3bd47f",
+      "isAdmin": false,
+      "isVIP": false,
+      "totalRentedCars": 0,
+      "picture": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "John Miller",
+      "email": "johnnn@gmail.com",
+      "password": "1234",
+      "phone": "(570) 265-9169",
+      "address": "115 5th St Towanda, Pennsylvania(PA), 18848"
+    },
+    {
+      "isAdmin": false,
+      "name": "Jennifer Smith",
+      "isVIP": false,
+      "totalRentedCars": 0,
+      "picture": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "email": "jennifersmith@gmail.com",
+      "phone": "(610) 614-0520",
+      "address": "206 N Broad St Nazareth, Pennsylvania(PA), 18064",
+      "password": "1234",
+      "id": "zxcvbnm"
+    },
+    {
+      "isAdmin": false,
+      "name": "Arseni Ilm",
+      "isVIP": true,
+      "totalRentedCars": 2,
+      "picture": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "email": "specialuser@gmail.com",
+      "phone": "(724) 424-8021",
+      "address": "309 Klondike Dr Latrobe, Pennsylvania(PA), 15650",
+      "password": "1234",
+      "id": "qwertyuiop"
+    }
+  ],
+  "rents": [
+    {
+      "id": 1,
+      "userId": "gskfbsk",
+      "vehicleId": "CfrKHsA",
+      "status": "In Progress",
+      "startDate": "2022-10-07",
+      "endDate": "2022-12-31",
+      "totalPrice": "4204.95"
+    },
+    {
+      "id": 2,
+      "userId": "qwertyuiop",
+      "vehicleId": "bbyFvbic",
+      "status": "Finished",
+      "startDate": "2022-10-21",
+      "endDate": "2022-11-11",
+      "totalPrice": "1160.07"
+    },
+    {
+      "id": 3,
+      "userId": "qwertyuiop",
+      "vehicleId": "1sfrffd",
+      "status": "Finished",
+      "startDate": "2022-11-02",
+      "endDate": "2022-11-04",
+      "totalPrice": "54.91"
+    },
+    {
+      "id": 4,
+      "userId": "70ad681a-b5bb-4f05-a451-cd5f36de57df",
+      "vehicleId": "xb5dd2cf-18b2-481f-85e9-57d969a3d488",
+      "status": "Finished",
+      "startDate": "2022-10-28",
+      "endDate": "2022-11-11",
+      "totalPrice": "293.33"
+    }
+  ]
+}

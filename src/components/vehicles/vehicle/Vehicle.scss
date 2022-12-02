@@ -1,0 +1,23 @@
+.vehicle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+
+  .form-vehicle {
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+
+    .vehicleCard {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

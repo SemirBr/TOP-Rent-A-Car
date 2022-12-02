@@ -1,0 +1,31 @@
+.rent-card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 20px;
+
+  .form-vehicle {
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+
+    .vehicleCard {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .btn-holder {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.rent-date {
+  width: 200px;
+  margin-left: 60px;
+}

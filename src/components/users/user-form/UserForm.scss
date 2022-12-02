@@ -1,0 +1,19 @@
+.userForm-wrapper {
+  height: calc(100vh);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+
+
+   
+    form {
+      text-align: left;
+      border: 1px solid gray;
+      padding: 10px;
+      border-radius: 10px;
+      width: 400px;
+      background-color: rgb(196, 91, 35);
+      border-color: black;
+    }
+}

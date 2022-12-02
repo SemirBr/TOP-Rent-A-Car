@@ -1,0 +1,13 @@
+.rents-list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .form {
+    margin: 20px;
+    background-color: rgb(156, 192, 228);
+  }
+}
